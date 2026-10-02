@@ -1,0 +1,15 @@
+D:\EPU\Ki I nam III\Lap trinh .NET\BaiKiemTra01\Bai02(OOP)\Code\Code\obj\Debug\net10.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPU\Ki I nam III\Lap trinh .NET\BaiKiemTra01\Bai02(OOP)\Code\Code\obj\Debug\net10.0\Code.AssemblyInfoInputs.cache
+D:\EPU\Ki I nam III\Lap trinh .NET\BaiKiemTra01\Bai02(OOP)\Code\Code\obj\Debug\net10.0\Code.AssemblyInfo.cs
+D:\EPU\Ki I nam III\Lap trinh .NET\BaiKiemTra01\Bai02(OOP)\Code\Code\obj\Debug\net10.0\Code.csproj.CoreCompileInputs.cache
+D:\EPU\Ki I nam III\Lap trinh .NET\BaiKiemTra01\Bai02(OOP)\Code\Code\bin\Debug\net10.0\Code.exe
+D:\EPU\Ki I nam III\Lap trinh .NET\BaiKiemTra01\Bai02(OOP)\Code\Code\bin\Debug\net10.0\Code.deps.json
+D:\EPU\Ki I nam III\Lap trinh .NET\BaiKiemTra01\Bai02(OOP)\Code\Code\bin\Debug\net10.0\Code.runtimeconfig.json
+D:\EPU\Ki I nam III\Lap trinh .NET\BaiKiemTra01\Bai02(OOP)\Code\Code\bin\Debug\net10.0\Code.dll
+D:\EPU\Ki I nam III\Lap trinh .NET\BaiKiemTra01\Bai02(OOP)\Code\Code\bin\Debug\net10.0\Code.pdb
+D:\EPU\Ki I nam III\Lap trinh .NET\BaiKiemTra01\Bai02(OOP)\Code\Code\obj\Debug\net10.0\Code.dll
+D:\EPU\Ki I nam III\Lap trinh .NET\BaiKiemTra01\Bai02(OOP)\Code\Code\obj\Debug\net10.0\refint\Code.dll
+D:\EPU\Ki I nam III\Lap trinh .NET\BaiKiemTra01\Bai02(OOP)\Code\Code\obj\Debug\net10.0\Code.pdb
+D:\EPU\Ki I nam III\Lap trinh .NET\BaiKiemTra01\Bai02(OOP)\Code\Code\obj\Debug\net10.0\Code.genruntimeconfig.cache
+D:\EPU\Ki I nam III\Lap trinh .NET\BaiKiemTra01\Bai02(OOP)\Code\Code\obj\Debug\net10.0\ref\Code.dll
+D:\EPU\Ki I nam III\Lap trinh .NET\BaiKiemTra01\Bai02(OOP)\Code\Code\obj\Debug\net10.0\Code.csproj.Up2Date
